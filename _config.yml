@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   With a focus on creating engaging and immersive gaming experiences
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Samourai"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Hello World"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -89,9 +89,9 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
-      related: true
+      related: false
   # _pages
   - scope:
       path: "_pages"

@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: Samourai Unity Blog
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   This blog is all about Unity Game Development, covering topics such as game mechanics, programming, art design, and level design. 
   With a focus on creating engaging and immersive gaming experiences
 twitter_username: username
-github_username: username
+github_username: 3Samourai
 minimal_mistakes_skin: dark
 search: true
 

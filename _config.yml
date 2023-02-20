@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "Samourai"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo.png"
   bio    : "Hello World"
   links:
     - label: "Website"
